@@ -18,7 +18,9 @@ Pour voir notre projet il vous suffit de :
 
 	- Télécharger le code au format ZIP,
 	- Dézipper le dossier téléchargé,
-	- Charger la base de donnée SQL dans PHPmyadmin en localhost (grâce à MAMP),
+	- Charger les bases de données SQL dans PHPmyadmin en localhost (grâce à MAMP)
+	- Creer une nouvelle database (New database) dans PHPmyadmin. Nommez la Database Alcatraz,
+	- Dans import, importez la Database du jeu (fichier .sql)
 	- Sauvegarder le reste des fichiers du programme dans votre file directory
 	- Le file directory de MAMP doit se terminer par Alcatraz-main/Jouer
 
