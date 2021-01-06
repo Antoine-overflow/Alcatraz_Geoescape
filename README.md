@@ -34,6 +34,17 @@ Pour voir notre projet il vous suffit de :
 	- vous pouvez consulter le tableau des scores dans "scores"
 
 
+************ Bugs éventuels ***********
+
+
+- en début de partie, en cliquant sur la cuillère, apperement rien ne se passe, pas d'effet de zoom, plus de markers dans le cadre
+	- solution : hard-reload de la page jusqu'à ce que le jeu se lance 
+
+- ne pas oublier en fin de partie de logout pour acceder de nouveau aux pages login/register. Vous pouvez logout de votre session sur la page d'acceuil ou lors de la réussite d'une partie.
+
+
+
+****************************************
 
 
 Si vous rencontrez un quelquonque problème lors du téléchargement ou de la visualisation
